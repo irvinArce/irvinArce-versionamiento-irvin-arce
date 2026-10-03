@@ -43,6 +43,13 @@ h1 {
     font-size: 1.1em;
 }
 
+.student-name {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 0.9em;
+    margin-top: 5px;
+}
+
 .container {
 
     display: flex;
