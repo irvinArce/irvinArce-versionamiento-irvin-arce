@@ -36,6 +36,13 @@ h1 {
 
 }
 
+.subtitle {
+    color: #CBD5E1;
+    text-align: center;
+    margin-top: -10px;
+    font-size: 1.1em;
+}
+
 .container {
 
     display: flex;
